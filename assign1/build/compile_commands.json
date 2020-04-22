@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/iosmichael/Documents/cse291/assign1/build",
+  "command": "/usr/bin/g++-7   -I/usr/local/include/OpenEXR -I/usr/local/include/eigen3 -I/usr/include/x86_64-linux-gnu -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/assign1.dir/main.cpp.o -c /home/iosmichael/Documents/cse291/assign1/main.cpp",
+  "file": "/home/iosmichael/Documents/cse291/assign1/main.cpp"
+},
+{
+  "directory": "/home/iosmichael/Documents/cse291/assign1/build",
+  "command": "/usr/bin/g++-7   -I/usr/local/include/OpenEXR -I/usr/local/include/eigen3 -I/usr/include/x86_64-linux-gnu -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/assign1.dir/utils.cpp.o -c /home/iosmichael/Documents/cse291/assign1/utils.cpp",
+  "file": "/home/iosmichael/Documents/cse291/assign1/utils.cpp"
+},
+{
+  "directory": "/home/iosmichael/Documents/cse291/assign1/build",
+  "command": "/usr/bin/g++-7   -I/usr/local/include/OpenEXR -I/usr/local/include/eigen3 -I/usr/include/x86_64-linux-gnu -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/assign1.dir/openexr_utils.cpp.o -c /home/iosmichael/Documents/cse291/assign1/openexr_utils.cpp",
+  "file": "/home/iosmichael/Documents/cse291/assign1/openexr_utils.cpp"
+}
+]

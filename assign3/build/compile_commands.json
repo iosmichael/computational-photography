@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/iosmichael/Documents/cse291/assign3/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/burst_photography.dir/main.cpp.o -c /home/iosmichael/Documents/cse291/assign3/main.cpp",
+  "file": "/home/iosmichael/Documents/cse291/assign3/main.cpp"
+},
+{
+  "directory": "/home/iosmichael/Documents/cse291/assign3/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/burst_photography.dir/algo.cpp.o -c /home/iosmichael/Documents/cse291/assign3/algo.cpp",
+  "file": "/home/iosmichael/Documents/cse291/assign3/algo.cpp"
+},
+{
+  "directory": "/home/iosmichael/Documents/cse291/assign3/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/burst_photography.dir/csv.cpp.o -c /home/iosmichael/Documents/cse291/assign3/csv.cpp",
+  "file": "/home/iosmichael/Documents/cse291/assign3/csv.cpp"
+}
+]
